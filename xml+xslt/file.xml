@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection>
+    <liquid name="Maintenance Spray" id="123" category="spray">
+        <link href="https://spotlessmaterials.com/products/maintenance-spray"/>
+        <price>$12.00</price>
+    </liquid>
+     <liquid  name="Coating Kits" id="456" category="liquid">
+        <link href="https://spotlessmaterials.com/products/coating-kits"/>
+        <price>$20.00</price>
+    </liquid>
+     <liquid  name="Sink and Fixture Coating" id="789" category="spray">
+        <link href="https://spotlessmaterials.com/products/sink-fixture-coating"/>
+        <price>$20.00</price>
+    </liquid>
+     <liquid  name="Fixture Coating" id="987" category="liquid">
+        <link href="https://spotlessmaterials.com/products/sink-fixture-coating"/>
+        <price>$25.00</price>
+    </liquid>
+     <liquid  name="Sink Coating" id="345" category="liquid">
+        <link href="https://spotlessmaterials.com/products/sink-fixture-coating"/>
+        <price>$22.00</price>
+    </liquid>
+ </collection>
+
+    
